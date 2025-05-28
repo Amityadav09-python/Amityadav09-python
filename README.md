@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amityadav09-python
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on LinkedIn https://www.linkedin.com/in/amit-yadav-5883a4296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
